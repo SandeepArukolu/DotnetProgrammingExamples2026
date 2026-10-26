@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="DotnetProgrammingExamples2026/DotnetProgrammingExamples2026.csproj" />
+  <Project Path="ValueTypeAndReferenceTypeEx/ValueTypeAndReferenceTypeEx.csproj" />
 </Solution>
